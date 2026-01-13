@@ -7,7 +7,7 @@ Features
 
     Format Preservation: Maintains tables and links while stripping unnecessary images.
 
-    Single Output: Merges all converted content into temiz_kaynaklar.md with clear source headings.
+    Single Output: Merges all converted content into OUTPUT_FİLE.md with clear source headings.
 
 Requirements
 
