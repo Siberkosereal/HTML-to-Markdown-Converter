@@ -7,7 +7,7 @@ def convert_html_to_md():
     h.ignore_images = True
     h.bypass_tables = False
 
-    output_file = "temiz_kaynaklar.md"
+    output_file = "OUTPUT_FİLE.md"
     # Çıktı dosyasını listeden kesin olarak çıkarıyoruz
     files = [f for f in os.listdir('.') if f.endswith('.html') and f != "tum_kaynaklar_birlesik.html"]
 
